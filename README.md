@@ -2,13 +2,9 @@
 
 ##### App that allows users to create courses and students. (8/25/15)
 
-#### Jason Bethel and Chris Swan
+#### Micahel, Rapp, Jason Bethel and Chris Swan
 
 ## Description
-
-
-## To Do:
-Add app routes and twig.
 
 ## Setup
 * Clone the project using the link provided on Github.
@@ -23,7 +19,7 @@ PHP, PHPUnit, Silex, Twig, and MySQL
 
 ### Legal
 
-Copyright (c) 2015 Jason Bethel and Chris Swan
+Copyright (c) 2015 Michael Rapp, Jason Bethel, and Chris Swan
 
 This software is licensed under the MIT license.
 
